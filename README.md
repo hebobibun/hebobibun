@@ -3,7 +3,7 @@
 I am currently learning Backend with Go (Golang) & MySQL.
 
 ### Languages & Technologies
-<a target="_blank" href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="35"></a>&ensp;
+<a target="_blank" href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="40"></a>&ensp;
 <a target="_blank" href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZs3pTwle5FtUCIgU9e1-IqmQ91eaCkQUR2bvw4jr6lsQ_ddkRxPmjMDSOSrYf-Kv-wY&usqp=CAU" width="30"></a>&ensp;
 <a href="https://laravel.com/"><img style="vertical-align: middle;" alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30"></a>&ensp;
 <a href="https://getbootstrap.com/"><img style="vertical-align: middle;" alt="Bootstrap" src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" width="40"></a>&ensp;

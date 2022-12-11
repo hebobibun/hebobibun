@@ -13,7 +13,7 @@ I am currently learning Backend with Go (Golang) & MySQL.
 ### Git Status
 :arrows_counterclockwise: &ensp;Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=commits&count_private=true&theme=dark">
 
-:star:&ensp;Stars : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=repository&count_private=true&theme=dark">
+:star:&ensp;Stars : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=repo&count_private=true&theme=dark">
 
 :books:&ensp;Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=contribs&count_private=true&theme=dark">
 

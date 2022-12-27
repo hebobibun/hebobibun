@@ -1,5 +1,6 @@
-### About me
-Hi 👋, I'm Muhammad Habibullah. I am currently learning Backend with Go (Golang) & MySQL.
+<h2>Hi 👋, I'm Muhammad Habibullah</h2>
+
+I am currently learning Backend with Go (Golang) & MySQL.
 
 ### Languages & Technologies
 <a target="_blank" href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="https://raw.githubusercontent.com/hebobibun/hebobibun/main/assets/go.png" width="50"></a>&ensp;

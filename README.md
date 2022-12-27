@@ -9,7 +9,7 @@ I am currently learning Backend with Go (Golang) & MySQL.
 <a href="https://getbootstrap.com/"><img style="vertical-align: middle;" alt="Bootstrap" src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" width="40"></a>&ensp;
 <a href="https://git-scm.com/"><img style="vertical-align: middle;" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"></a>&ensp;
 <a target="_blank" href="https://www.mysql.com/"><img style="vertical-align: middle;" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"></a>&ensp;
-<a target="_blank" href="https://www.postgresql.org//"><img style="vertical-align: middle;" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="55"></a>&ensp;
+<a target="_blank" href="https://www.postgresql.org//"><img style="vertical-align: middle;" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="35"></a>&ensp;
 
 ### Git Status
 :arrows_counterclockwise: &ensp;Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=commits&count_private=true&theme=dark">

@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Muhammad Habibullah</h1>
+<h2>Hi 👋, I'm Muhammad Habibullah</h2>
 
 I am currently learning Backend with Go (Golang) & MySQL.
 

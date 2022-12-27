@@ -2,7 +2,7 @@
 
 I am currently learning Backend with Go (Golang) & MySQL.
 
-### Languages & Technologies
+### Tech Stack
 <a target="_blank" href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="https://raw.githubusercontent.com/hebobibun/hebobibun/main/assets/go.png" width="45"></a>&ensp;
 <a target="_blank" href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="https://raw.githubusercontent.com/hebobibun/hebobibun/main/assets/js.png" width="45"></a>&ensp;
 <a href="https://laravel.com/"><img style="vertical-align: middle;" alt="Laravel" src="https://raw.githubusercontent.com/hebobibun/hebobibun/main/assets/laravel.png" width="45"></a>&ensp;

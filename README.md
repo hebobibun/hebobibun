@@ -30,4 +30,4 @@
 
 💬 Let's connect with me on <a href="https://www.linkedin.com/in/mhammadhabibullah/" target="_blank">LinkedIn<a/>
 
-📫 Feel free to reach me at <a target="_blank" href="mailto:hebobibun@gmail.com" target="_blank">hebobibun@gmail.com<a/>
+📫 Feel free to reach me at <a target="_blank" href="mailto:hebobibun@gmail.com" target="_blank">Email<a/>

@@ -1,6 +1,6 @@
 ## Hello! I'm Muhammad Habibullah 👋
 
-🖥️ I am passionate about learning web development, especially backend development.
+🖥️ Passionate to learn about web development, especially backend development.
 
 ### Tech Stack :
 \- Experienced in

@@ -19,15 +19,17 @@
 <a target="_blank" href="https://www.docker.com/"><img style="vertical-align: middle;" alt="Docker" src="https://camo.githubusercontent.com/08bee4768ef72a48d6036c78c789362ff66aca54648750e62207bd14a8434b75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" width="75"></a>&ensp;
 <a target="_blank" href="https://www.postgresql.org"><img style="vertical-align: middle;" alt="PostgreSQL" src="https://camo.githubusercontent.com/9d005311bf65df61c42e9e5cd6e700fd3519703c569128d590cc10f203879cf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" width="88"></a>&ensp;
 
-### Git Status :
-:arrows_counterclockwise: &ensp;Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=commits&count_private=true&theme=dark">
+### GitHub Stats
 
-:star:&ensp;Stars : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=stars&count_private=true&theme=dark">
-
-:books:&ensp;Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=hebobibun&show=contribs&count_private=true&theme=dark">
+![](https://github-readme-stats.vercel.app/api?username=hebobibun&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hebobibun&theme=blue-green&hide_border=false)<br/>
 
 ### Contact :
 
 💬 Let's connect with me on <a href="https://www.linkedin.com/in/mhammadhabibullah/" target="_blank">LinkedIn<a/>
 
 📫 Feel free to reach me at <a target="_blank" href="mailto:hebobibun@gmail.com" target="_blank">Email<a/>
+ 
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=hebobibun&icon=5&color=1)](https://visitcount.itsvg.in)

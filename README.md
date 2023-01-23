@@ -1,4 +1,4 @@
-## Hello! I'm Muhammad Habibullah 👋
+<img src="assets/hi.svg" alt=":wave:" />
 
 🖥️ Passionate to learn about web development, especially backend.
 

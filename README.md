@@ -4,7 +4,7 @@
 
 🖥️ Passionate to learn about web development, especially backend.
 
-### Tech Stack :
+### Tech Stacks :
 \- Experienced in
 
 <a target="_blank" href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="https://camo.githubusercontent.com/e802d161d007132467560257153f60bd5a3dee99c6d7a33296bb22869e7f9bdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d666c6174266c6f676f3d676f266c6f676f436f6c6f723d7768697465" width="47"></a>&ensp;

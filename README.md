@@ -1,4 +1,4 @@
-<img src="assets/hey.svg" style="pointer-events: none;" alt=":wave: Hey, I'm Muhammad Habibullah"/>
+<img src="assets/hey.svg" onclick="return false;" alt=":wave: Hey, I'm Muhammad Habibullah"/>
 
 🖥️ Passionate to learn about web development, especially backend.
 

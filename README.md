@@ -11,7 +11,6 @@
 - Postman
 - Docker
 - AWS
-- Etc.
 
 ### GitHub Stats
 

@@ -7,7 +7,7 @@
 ### Current Stacks :
 
 - Golang
-- MySQL
+- PostgreSQL
 - Postman
 - Docker
 - AWS

@@ -7,10 +7,10 @@
 ### Current Stacks :
 
 - Golang
+- NodeJS
+- VueJS
+- Laravel
 - PostgreSQL
-- Postman
-- Docker
-- AWS
 
 ### GitHub Stats
 

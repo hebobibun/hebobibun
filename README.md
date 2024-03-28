@@ -16,6 +16,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hebobibun&theme=algolia&hide_border=false)<br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Contact :
 
 More about me, kindly visit [hebobibun.github.io](https://hebobibun.github.io)

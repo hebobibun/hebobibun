@@ -8,7 +8,7 @@
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
       I'm Habibullah, I work as a software engineer from
-      Bengaluru, India. I specialize in building web applications and sites
+      Indonesia. I specialize in building web applications and sites
       using Golang, Javascript, Vue &amp; Node. I've procrastinated building this
       website for years but finally it's here, I've carved out my own little
       nook on the internet to share my silly experiments, nifty projects, and
@@ -27,6 +27,6 @@
 useSeoMeta({
   title: "Muhammad Habibullah",
   description:
-    "I'm Habibullah, your friendly neighborhood software, product engineer and designer from Bengaluru, India. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
+    "I'm Habibullah, your friendly neighborhood software, product engineer and designer from Indonesia. I specialize in building web applications and sites using Javascript, React, Vue & Node.",
 });
 </script>

@@ -7,18 +7,10 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-      I'm Habibullah, I work as a software engineer from
-      Indonesia. I specialize in building web applications and sites
-      using Golang, Javascript, Vue &amp; Node. I've procrastinated building this
-      website for years but finally it's here, I've carved out my own little
-      nook on the internet to share my silly experiments, nifty projects, and
-      thoughts (mostly about tech and design).
+      I'm Habibullah, a software engineer from Indonesia. I specialize in making websites and apps using Golang, JavaScript, Vue &amp; Node.js. Here, I share my fun experiments, cool projects, and thoughts mostly about tech &amp; programming.
     </p>
     <p class="text-gray-900 dark:text-gray-400">
-      By day, I'm a Fullstack Developer at
-      <a href="https://github.com/msa-camp" target="_blank" class="underline">MagicsoftAsia</a>, and
-      by night (and weekends), I'm busy tinkering with some random tool or app
-      that I am building.
+      During the day, I work as a Fullstack Developer at <a href="https://www.linkedin.com/company/magicsoft-asia-system" target="_blank" class="underline">MagicsoftAsia</a>. But in my free time, especially at night and on weekends, I love playing around with different tools and apps that I'm building.
     </p>
   </div>
 </template>

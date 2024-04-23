@@ -25,24 +25,19 @@
 <script lang="ts" setup>
 const links = [
   {
-    name: "Twitter",
-    url: "https://twitter.com/hebobibun",
-    icon: "mdi:twitter",
-  },
-  {
     name: "GitHub",
     url: "https://github.com/hebobibun",
     icon: "mdi:github",
   },
   {
+    name: "Twitter",
+    url: "https://twitter.com/hebobibun",
+    icon: "mdi:twitter",
+  },
+  {
     name: "Linkedin",
     url: "https://www.linkedin.com/in/mhammadhabibullah/",
     icon: "mdi:linkedin",
-  },
-  {
-    name: "Telegram",
-    url: "https://t.me/hebobibun",
-    icon: "mdi:telegram",
   },
 ];
 </script>

@@ -1,0 +1,80 @@
+[
+  {
+    "city": "New York",
+    "country": "USA",
+    "utcOffset": "-04:00",
+    "tzCode": "EDT"
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "utcOffset": "-07:00",
+    "tzCode": "PDT"
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "utcOffset": "-05:00",
+    "tzCode": "CDT"
+  },
+  {
+    "city": "London",
+    "country": "UK",
+    "utcOffset": "+01:00",
+    "tzCode": "BST"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "utcOffset": "+02:00",
+    "tzCode": "CEST"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "utcOffset": "+02:00",
+    "tzCode": "CEST"
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "utcOffset": "+03:00",
+    "tzCode": "MSK"
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "utcOffset": "+04:00",
+    "tzCode": "GST"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "utcOffset": "+05:30",
+    "tzCode": "IST"
+  },
+  {
+    "city": "Singapore",
+    "country": "SG",
+    "utcOffset": "+08:00",
+    "tzCode": "SGT"
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "utcOffset": "+09:00",
+    "tzCode": "JST"
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "utcOffset": "+10:00",
+    "tzCode": "AEST"
+  },
+  {
+    "city": "Auckland",
+    "country": "NZ",
+    "utcOffset": "+12:00",
+    "tzCode": "NZST"
+  }
+]

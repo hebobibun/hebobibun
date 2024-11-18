@@ -7,10 +7,11 @@
 ### Current Stacks :
 
 - Golang
-- NodeJS
-- VueJS
-- Laravel
+- Typescript
+- Vue
+- React
 - PostgreSQL
+- SQLite
 
 ### GitHub Stats
 
